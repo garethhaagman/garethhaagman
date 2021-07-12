@@ -7,8 +7,8 @@ I am a mathematician and machine learning engineer from the UK currently working
 - 📫 Machine learning optimisation of cold gravity sensors
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gareth-haagman-023b841b7/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/garethhaagman)
+[<a href="https://www.linkedin.com/in/gareth-haagman-023b841b7/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>]
+[<a href="https://twitter.com/garethhaagman"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>]
 <br>
 <br>
 ## Expertise
