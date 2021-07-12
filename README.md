@@ -1,4 +1,4 @@
-### Hello I am Gareth Haagman!
+### Hello, I'm Gareth Haagman!
 I am a mathematician and machine learning enthusiast from the UK currently working on 
 - 🔭 Implementing neural networks on low-power microcontrollers
 - 🌱 Classification of satellite image data using neural networks (in collaboration with SENSE)
