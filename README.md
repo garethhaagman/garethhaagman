@@ -1,5 +1,5 @@
-### Hello !
-I am a mathematician and machine learning engineer from the UK currently working on 
+### Hello I am Gareth Haagman!
+I am a mathematician and machine learning enthusiast from the UK currently working on 
 - 🔭 Implementing neural networks on low-power microcontrollers
 - 🌱 Classification of satellite image data using neural networks (in collaboration with SENSE)
 - ⚡ Natural Language Processing for social sentiment analysis
@@ -11,7 +11,7 @@ I am a mathematician and machine learning engineer from the UK currently working
 [<a href="https://twitter.com/garethhaagman"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>]
 <br>
 <br>
-## Expertise
+## Featured technologies
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
