@@ -3,8 +3,8 @@ I am a mathematician and machine learning enthusiast from the UK currently worki
 - 🔭 Implementing neural networks on low-power microcontrollers
 - 🌱 Classification of satellite image data using neural networks (in collaboration with the University of Edinburgh)
 - ⚡ Natural Language Processing for social sentiment analysis 
-- 😄 Web development of static websites using Bootstrap, Javascript and PHP
-- 📫 Algorithmic Trading of Cryptocurrency using genetic machine learning algorithms
+- 😄 Studying dynamical systems using computational methods 
+- 📫 Algorithmic Trading in Python
 <br><br>
 <h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/gareth-haagman-023b841b7/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
