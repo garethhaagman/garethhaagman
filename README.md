@@ -3,7 +3,7 @@ I am a mathematician and machine learning enthusiast from the UK currently worki
 - 🔭 Implementing neural networks on low-power microcontrollers
 - 🌱 Classification of satellite image data using neural networks (in collaboration with the University of Edinburgh)
 - ⚡ Natural Language Processing for social sentiment analysis 
-- 😄 Web development in NextJS
+- 😄 Web development in NextJS and Bootstrap
 - 📫 Algorithmic Trading in Python
 <br><br>
 <h3>Connect with me</h3>
