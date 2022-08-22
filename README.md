@@ -1,10 +1,10 @@
 ### Hello, I'm Gareth !
-I am a mathematician and software engineer from the UK interested in
+A mathematician and software engineer from the UK interested in
 - 🔭 Algorithmic Trading with Machine Learnining 
-- 🌱 Full Stack Web Development 
+- 🌱 Full Stack Development 
 - ⚡ Natural Language Processing 
-- 😄 Optimisation Using Quantum Computing 
 - 📫 Computational Statistics
+
 <br><br>
 <h3>Featured technologies</h3>
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
