@@ -2,7 +2,7 @@
 A mathematics graduate and software engineer from the UK interested in
 - 🔭 Algorithmic Trading with Machine Learnining 
 - 🌱 Full Stack Development 
-- ⚡ Natural Language Processing 
+- ⚡ Black-Scholes Options Pricing
 - 📫 Computational Statistics
 
 <br><br>
