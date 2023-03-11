@@ -1,6 +1,6 @@
 ### Hello, I'm Gareth !
 A mathematics graduate and software engineer from the UK interested in
-- 🔭 Algorithmic Trading with Machine Learnining 
+- 🔭 Algorithmic Trading with Machine Learning 
 - 🌱 Full Stack Development 
 - ⚡ Black-Scholes Options Pricing
 - 📫 Computational Statistics
