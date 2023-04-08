@@ -15,7 +15,9 @@ A mathematics graduate and software engineer from the UK working on:
 <a href="https://www.kaggle.com/ninolau">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-
-![image](https://user-images.githubusercontent.com/77687273/230731762-de29c4b4-9ebc-4288-8391-48ea46ba6c0f.png){: .callout}
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/77687273/230731969-877a3c2a-7f3e-4cdd-997c-250c26496c40.png">
+">
+</p>
 <br>
 <br>
