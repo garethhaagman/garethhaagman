@@ -2,8 +2,8 @@
 <p align="left">
 A m>athematics graduate and software engineer from the UK working on:
 <li🌱 Full Stack Development <\li>
-  <li> 🔭 Algorithmic Trading with Machine Learning </li>
-  <li> 📫 Computational Statistics </li>
+<li> 🔭 Algorithmic Trading with Machine Learning </li>
+<li> 📫 Computational Statistics </li>
 
 - 💼 I’m also pursuing an MSc in Software Engineering
   
