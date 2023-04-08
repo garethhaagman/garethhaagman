@@ -1,9 +1,9 @@
 ### Hello, I'm Gareth !
 <p align="left">
-A mathematics graduate and software engineer from the UK working on:
-- 🌱 Full Stack Development 
-- 🔭 Algorithmic Trading with Machine Learning 
-- 📫 Computational Statistics
+A m>athematics graduate and software engineer from the UK working on:
+<li🌱 Full Stack Development <\li>
+  <li> 🔭 Algorithmic Trading with Machine Learning </li>
+  <li> 📫 Computational Statistics </li>
 
 - 💼 I’m also pursuing an MSc in Software Engineering
   
