@@ -7,10 +7,7 @@ A mathematics graduate and software engineer from the UK working on:
 
 - 💼 I’m also pursuing an MSc in Software Engineering
 
-
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
+  
 <a href="https://www.linkedin.com/in/garethhaagman">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
@@ -20,6 +17,9 @@ A mathematics graduate and software engineer from the UK working on:
 <a href="https://www.kaggle.com/ninolau">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
+
+
+  <img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/77687273/230731442-dfd4432c-00db-41ef-ac54-7c9e9bb808a9.png)" />
 
 <br>
 <br>
