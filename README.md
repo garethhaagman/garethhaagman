@@ -4,9 +4,7 @@ A mathematics graduate and software engineer from the UK working on:
  
 🌱 Full Stack Development 
   <br>
-  <br>
  🔭 Algorithmic Trading with Machine Learning 
-  <br>
   <br>
  📫 Computational Statistics 
   <br>
