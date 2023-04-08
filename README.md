@@ -8,7 +8,6 @@ A mathematics graduate and software engineer from the UK working on:
   <br>
  📫 Computational Statistics 
   <br>
-
  💼 I’m also pursuing an MSc in Software Engineering
   
 <a href="https://www.linkedin.com/in/garethhaagman">
