@@ -16,6 +16,6 @@ A mathematics graduate and software engineer from the UK working on:
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
-![image]{: .callout}(https://user-images.githubusercontent.com/77687273/230731762-de29c4b4-9ebc-4288-8391-48ea46ba6c0f.png)
+![image](https://user-images.githubusercontent.com/77687273/230731762-de29c4b4-9ebc-4288-8391-48ea46ba6c0f.png)
 <br>
 <br>
