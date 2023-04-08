@@ -19,7 +19,7 @@ A mathematics graduate and software engineer from the UK working on:
 </a>
 
 
-  <img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/77687273/230731442-dfd4432c-00db-41ef-ac54-7c9e9bb808a9.png)" />
+  <img align="right" alt="PNG" src="![image](![Uploading image.png…]())" />
 
 <br>
 <br>
