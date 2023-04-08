@@ -19,7 +19,7 @@ A mathematics graduate and software engineer from the UK working on:
 </a>
 
 
-  <img align="right" alt="PNG" src="![image](https://user-images.githubusercontent.com/77687273/230731593-08355d77-9fdf-4499-90b0-4b867bab34d5.png)
+  <img align="right" alt="png" src="![image](https://user-images.githubusercontent.com/77687273/230731593-08355d77-9fdf-4499-90b0-4b867bab34d5.png)
 " />
 
 <br>
