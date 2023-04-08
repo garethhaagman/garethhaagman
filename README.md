@@ -1,13 +1,15 @@
 ### Hello, I'm Gareth !
 <p align="left">
 A mathematics graduate and software engineer from the UK working on:
-  <ul.
-<li🌱 Full Stack Development <\li>
-<li> 🔭 Algorithmic Trading with Machine Learning </li>
-<li> 📫 Computational Statistics </li>
-  </ul>
+ 
+🌱 Full Stack Development 
+  <br>
+ 🔭 Algorithmic Trading with Machine Learning 
+  <br>
+ 📫 Computational Statistics 
+  <br>
 
-- 💼 I’m also pursuing an MSc in Software Engineering
+ 💼 I’m also pursuing an MSc in Software Engineering
   
 <a href="https://www.linkedin.com/in/garethhaagman">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
