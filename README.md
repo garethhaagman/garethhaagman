@@ -4,9 +4,7 @@ A mathematics graduate and software engineer from the UK working on:
 - 🔭 Algorithmic Trading with Machine Learning 
 - 📫 Computational Statistics
 
-
 - 💼 I’m also pursuing an MSc in Software Engineering
-
   
 <a href="https://www.linkedin.com/in/garethhaagman">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
@@ -19,8 +17,6 @@ A mathematics graduate and software engineer from the UK working on:
 </a>
 
 
-  <img align="right" alt="png" src="![image](https://user-images.githubusercontent.com/77687273/230731593-08355d77-9fdf-4499-90b0-4b867bab34d5.png)
-" />
-
+![image](https://user-images.githubusercontent.com/77687273/230731762-de29c4b4-9ebc-4288-8391-48ea46ba6c0f.png)
 <br>
 <br>
