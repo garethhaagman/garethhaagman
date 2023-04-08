@@ -8,9 +8,6 @@ A mathematics graduate and software engineer from the UK working on:
 - 💼 I’m also pursuing an MSc in Software Engineering
 
 
-<br />
-<br />
-
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
