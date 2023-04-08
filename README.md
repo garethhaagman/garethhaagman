@@ -5,7 +5,7 @@ A mathematics graduate and software engineer from the UK working on:
 - 📫 Computational Statistics
 
 
-- 💼 I’m also pursuing an MSc in Software Engineering at the University of Warwick
+- 💼 I’m also pursuing an MSc in Software Engineering
 
 
 <a href="https://www.linkedin.com/in/garethhaagman">
