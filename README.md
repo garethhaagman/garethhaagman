@@ -10,7 +10,6 @@ A mathematics graduate and software engineer from the UK working on:
   <br>
  📫 Computational Statistics 
   <br>
-  <br>
 
  💼 I’m also pursuing an MSc in Software Engineering
   
