@@ -1,7 +1,8 @@
-### Hello, I'm Gareth !
+### Hello, I'm Gareth.
 <p align="left">
-A mathematics graduate and software engineer from the UK working on:
- 
+A mathematics graduate and software engineer working on:
+ <img align="left" width="250px" height="250px" src="https://user-images.githubusercontent.com/77687273/230731969-877a3c2a-7f3e-4cdd-997c-250c26496c40.png">
+
 🌱 Full Stack Development 
   <br>
  🔭 Algorithmic Trading with Machine Learning 
@@ -20,9 +21,6 @@ A mathematics graduate and software engineer from the UK working on:
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
  </p>
-<p align="right" stle="padding-top: 0;">
-  <img width="400px" height="400px" src="https://user-images.githubusercontent.com/77687273/230731969-877a3c2a-7f3e-4cdd-997c-250c26496c40.png">
-</p>
-
+  
 <br>
 <br>
