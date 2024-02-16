@@ -1,6 +1,5 @@
 ### Hello, I'm Gareth.
 <p align="left">
-A mathematics graduate and software engineer working on:
  <img align="left" width="250px" height="250px" src="https://user-images.githubusercontent.com/77687273/230731969-877a3c2a-7f3e-4cdd-997c-250c26496c40.png">
 
 🌱 Full Stack Development 
