@@ -1,23 +1,47 @@
-### Hello, I'm Gareth.
-<p align="left">
- <img align="left" width="250px" height="250px" src="https://user-images.githubusercontent.com/77687273/230731969-877a3c2a-7f3e-4cdd-997c-250c26496c40.png">
-
-🌱 Full Stack Development 
-
- Mathematics BSc
- 
- Software Engineering MSc
+<div align="center">
   
-<a href="https://www.linkedin.com/in/garethhaagman">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
-<a href="mailto:garethhaagman@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-<a href="https://www.kaggle.com/garethhaagman">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
- </p>
-  
-<br>
-<br>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=9277FF&height=190&width=100%&section=header&text=Gareth%20Haagman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=55)
+
+  ### Building AI Insurance solutions at [Testudo](https://testudo.co)
+  #### Helping businesses navigate AI-related risks with data-driven technology
+
+</div>
+
+<br/>
+
+<div align="center" style="background-color: #13111c; padding: 20px; border-radius: 6px; max-width: 600px; margin: 0 auto;">
+
+  ## Technology & Tools  
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,nextjs" height="40" alt="primary languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongo,postgres,tailwind" height="40" alt="frameworks and databases" />
+
+</div>
+
+<br/>
+
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+
+  ## Connect
+  <a href="https://linkedin.com/in/garethhaagman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%239277FF.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/garethhaagman" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%239277FF.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garethhaagman&show_icons=true&bg_color=ffffff&title_color=9277FF&text_color=000000&icon_color=9277FF&hide_border=true&include_all_commits=true&count_private=true&card_width=600)
+
+</div>
+
+<div align="center">
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=9277FF&height=100&width=100%&section=footer)
+
+</div>
